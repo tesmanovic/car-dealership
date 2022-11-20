@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ASPNETCORE_ENVIRONMENT": "Development",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "0d7ad1d9-7331-425d-ae34-d6ec22db8275",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=0d7ad1d9-7331-425d-ae34-d6ec22db8275;IngestionEndpoint=https://westeurope-3.in.applicationinsights.azure.com/"
+  }
+}
